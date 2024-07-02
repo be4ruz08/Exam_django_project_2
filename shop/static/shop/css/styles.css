@@ -4280,6 +4280,11 @@ textarea.form-control-lg {
 .card-img-top {
   border-top-left-radius: var(--bs-card-inner-border-radius);
   border-top-right-radius: var(--bs-card-inner-border-radius);
+  /* styles.css */
+.card-img-top {
+
+}
+
 }
 
 .card-img,
